@@ -1,0 +1,19 @@
+{
+    "alldebrid_agent": "DOWNLOADER",
+	"alldebrid_api_key": "",
+	"utb_api_key":	"",
+    "torrent_directory": "/home/user/torrent/",
+    "finished_directory": "/home/user/torrent/finished/",
+    "error_directory": "/home/user/torrent/error/",
+    "expired_directory": "/home/user/torrent/expired/",
+    "expiration_time": "720h",
+    "output_file": "/home/user/torrent/movies",
+	"alldebrid_proxy": {
+		"enabled":false,
+		"type":"socks5",
+		"server":"",
+		"port": 1080,
+		"username":"",
+		"password":""
+	}
+}
